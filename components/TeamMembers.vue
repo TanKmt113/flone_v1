@@ -33,7 +33,7 @@
             return {
                 teamMemberData: [
                     {
-                        imgSrc: "/img/team/team-1.jpg",
+                        imgSrc: "/img/team/team-1.avif",
                         name: "Stephen Fleming",
                         designation: "Manager",
                         socialLink: [

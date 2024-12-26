@@ -58,7 +58,7 @@
                         subTitle: "Stylish",
                         title: "Male Clothes",
                         desc: "30% off Winter Vacation",
-                        backgroundImage: "/img/slider/slider-3-1.jpg"
+                        backgroundImage: "/img/slider/slider-3-1.avif"
                     },
                     {
                         id: 2,

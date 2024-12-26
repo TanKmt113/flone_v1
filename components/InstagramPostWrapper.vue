@@ -33,7 +33,7 @@
                 instagramData: [
                     {
                         id: 1,
-                        imgSrc: "/img/instagram/instagram-1.jpg"
+                        imgSrc: "/img/instagram/instagram-1.avif"
                     },
                     {
                         id: 2,

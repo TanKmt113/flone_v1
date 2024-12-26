@@ -1,9 +1,9 @@
 <template>
-    <div class="home-page-wrapper">
+    <div class="home-fashion-two">
         <TheHeader />
-        <HeroSlider />
-        <ServicePolicy />
-        <ProductWrapper :isSectionTitle=true />
+        <HeroSliderTwo />
+        <BannerStyleOne class="pt-60 pb-95" />
+        <ProductWrapperTwo />
         <BlogWrapper />
         <TheFooter />
     </div>
@@ -13,17 +13,17 @@
     export default {
         components: {
             TheHeader: () => import('@/components/TheHeader'),
-            HeroSlider: () => import('@/components/hero/HeroSlider'),
-            ServicePolicy: () => import('@/components/policy/ServicePolicy'),
-            ProductWrapper: () => import('@/components/product/ProductWrapper'),
+            HeroSliderTwo: () => import('@/components/hero/HeroSliderTwo'),
+            BannerStyleOne: () => import('@/components/banner/BannerStyleOne'),
+            ProductWrapperTwo: () => import('@/components/product/ProductWrapperTwo'),
             BlogWrapper: () => import('@/components/BlogWrapper'),
             TheFooter: () => import('@/components/TheFooter'),
         },
         head() {
             return {
-                title: 'Home Fashion One'
+                title: 'Home Fashion Two'
             }
-        },
+        }
     };
 </script>
 

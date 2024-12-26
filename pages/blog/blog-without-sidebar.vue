@@ -2,7 +2,6 @@
     <div class="blog-without-sidebar">
         <HeaderWithTopbar containerClass="container" />
         <Breadcrumb pageTitle="blog without sidebar" />
-        
         <div class="blog-area pt-100 pb-100">
             <div class="container">
                 <div class="row">

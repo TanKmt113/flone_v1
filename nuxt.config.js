@@ -1,4 +1,10 @@
 export default {
+
+    vue: {
+        config: {
+          devtools: true
+        }
+    },
     
     generate: {
         fallback: true

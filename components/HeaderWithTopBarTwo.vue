@@ -27,7 +27,7 @@
                         </div>
                         <div class="col-lg-2 col-4">
                             <div class="logo-hm9">
-                                <n-link to="/home-fashion-two">
+                                <n-link to="/">
                                     <img src="/img/logo/logo.png" alt="flone logo">
                                 </n-link>
                             </div>

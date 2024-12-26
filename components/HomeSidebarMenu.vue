@@ -2,7 +2,7 @@
     <div>
         <div class="home-sidebar-left">
             <div class="logo">
-                <n-link to="/home-fashion-two">s
+                <n-link to="/">s
                     <img src="/img/logo/logo.png" alt="logo">
                 </n-link>
             </div>

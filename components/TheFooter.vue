@@ -5,7 +5,7 @@
                 <div class="col-lg-2 col-sm-4">
                     <div class="copyright mb-30">
                         <div class="footer-logo">
-                            <n-link to="/home-fashion-two">
+                            <n-link to="/">
                                 <img src="/img/logo/logo.png" alt="logo">
                             </n-link>
                         </div>

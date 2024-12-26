@@ -2,7 +2,7 @@
     <div class="shop-area pt-100 pb-100">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="product-details-slider">
                         <div class="product-details-img">
                             <div class="product-badges">
@@ -28,7 +28,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-8 col-md-8">
                     <div class="product-details-content ml-70">
                         <h2>{{ product.title }}</h2>
                         <div class="product-details-price">

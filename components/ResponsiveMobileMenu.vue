@@ -42,7 +42,7 @@
                                         title: 'Home Fashion One',
                                     },
                                     {
-                                        url: '/home-fashion-two',
+                                        url: '/',
                                         title: 'Home Fashion Two',
                                     },
                                     {

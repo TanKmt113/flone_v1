@@ -53,7 +53,7 @@
                     {
                         title: "Welcome to Flone",
                         desc: "30% off Winter Vacation",
-                        backgroundImage: "/img/slider/slider-6-1.jpg"
+                        backgroundImage: "/img/slider/slider-6-1.avif"
                     },
                     {
                         title: "Welcome to Flone",

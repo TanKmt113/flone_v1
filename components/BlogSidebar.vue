@@ -17,7 +17,7 @@
                 <div class="single-sidebar-blog">
                     <div class="sidebar-blog-img">
                         <n-link to="/blog/a-guide-to-latest-trends-product">
-                            <img src="/img/blog/sidebar-1.jpg" alt="">
+                            <img src="/img/blog/sidebar-1.avif" alt="">
                         </n-link>
                     </div>
                     <div class="sidebar-blog-content">
@@ -56,7 +56,7 @@
                 <div class="single-sidebar-blog">
                     <div class="sidebar-blog-img">
                         <n-link to="/blog/a-guide-to-latest-trends-product">
-                            <img src="/img/blog/sidebar-1.jpg" alt="">
+                            <img src="/img/blog/sidebar-1.avif" alt="">
                         </n-link>
                     </div>
                     <div class="sidebar-blog-content">

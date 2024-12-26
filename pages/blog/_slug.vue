@@ -66,7 +66,7 @@
                                 <h4 class="blog-dec-title">comments : 02</h4>
                                 <div class="single-comment-wrapper mt-35">
                                     <div class="blog-comment-img">
-                                        <img src="/img/blog/comment-1.jpg" alt="">
+                                        <img src="/img/blog/comment-1.avif" alt="">
                                     </div>
                                     <div class="blog-comment-content">
                                         <h4>Anthony Stephens</h4>

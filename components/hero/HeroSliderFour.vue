@@ -57,7 +57,7 @@
                         subTitle: "New Arrival",
                         title: "Final Sale",
                         desc: "30% off Winter Vacation",
-                        backgroundImage: "/img/slider/slider-4-1.jpg"
+                        backgroundImage: "/img/slider/slider-4-1.avif"
                     },
                     {
                         subTitle: "New Arrival",

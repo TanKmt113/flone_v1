@@ -2,7 +2,7 @@
     <client-only>
         <modal name="quickview" @before-open="beforeOpen" width="50%" :scrollable="true" height=auto >
             <div class="quickview-wrapper row">
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="product-details-slider">
                         <div class="product-details-img">
                             <div class="product-badges">
@@ -24,7 +24,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-md-8">
                     <div class="product-details-content">
                         <div slot="top-right">
                             <button @click="$modal.hide('quickview')" class="modal-close">

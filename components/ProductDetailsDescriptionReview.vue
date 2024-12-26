@@ -30,7 +30,7 @@
                                 <div class="review-wrapper">
                                     <div class="single-review">
                                         <div class="review-img">
-                                            <img src="/img/testimonial/1.jpg" alt="">
+                                            <img src="/img/testimonial/1.avif" alt="">
                                         </div>
                                         <div class="review-content">
                                             <div class="review-top-wrap">

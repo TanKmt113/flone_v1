@@ -55,7 +55,7 @@
                     {
                         subTitle: "Cosmetic Best Selling",
                         title: "Fashion <br> Cosmetic",
-                        backgroundImage: "/img/slider/cosmetics-slider-1.jpg"
+                        backgroundImage: "/img/slider/cosmetics-slider-1.avif"
                     },
                     {
                         subTitle: "Olive Oil Essentials",

@@ -1,5 +1,5 @@
 <template>
-    <div class="deal-area pt-100 pb-100" :style="{ backgroundImage: 'url(/img/bg/bg-1.jpg)' }">
+    <div class="deal-area pt-100 pb-100" :style="{ backgroundImage: 'url(/img/bg/bg-1.avif)' }">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 ms-auto">

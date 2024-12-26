@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-md-6 col-4">
                         <div class="logo">
-                            <n-link to="/home-fashion-two">
+                            <n-link to="/">
                                 <img src="/img/logo/logo.png" alt="logo">
                             </n-link>
                         </div>

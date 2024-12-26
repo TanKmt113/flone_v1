@@ -56,7 +56,7 @@
                         id: 1,
                         subTitle: "Enjoy This Offer Today",
                         title: "New Collection Sale 30%",
-                        backgroundImage: "/img/slider/slider-7-1.jpg"
+                        backgroundImage: "/img/slider/slider-7-1.avif"
                     },
                     {
                         id: 2,

@@ -1,7 +1,7 @@
 <template>
     <ul>
         <li>
-            <n-link to="/home-fashion-two">Home</n-link>
+            <n-link to="/">Home</n-link>
             <!-- <ul class="mega-menu mega-menu-padding">
                 <li>
                     <ul>
@@ -12,7 +12,7 @@
                             <n-link to="/">Home Fashion One</n-link>
                         </li>
                         <li>
-                            <n-link to="/home-fashion-two">Home Fashion Two</n-link>
+                            <n-link to="/">Home Fashion Two</n-link>
                         </li>
                         <li>
                             <n-link to="/home-fashion-three">Home Fashion Three</n-link>
@@ -114,7 +114,7 @@
                 </li>
             </ul> -->
         </li>
-        <li>
+        <!-- <li>
             <n-link to="">Pages <i class="fa fa-angle-down"></i></n-link>
             <ul class="submenu">
                 <li><n-link to="/cart">Cart</n-link></li>
@@ -128,10 +128,10 @@
                 <li><n-link to="/privacy-policy">Privacy Policy</n-link></li>
                 <li><n-link to="/terms-conditions">Terms Conditions</n-link></li>
             </ul>
-        </li>
+        </li> -->
         <li>
-            <n-link to="/blog">Blog <i class="fa fa-angle-down"></i></n-link>
-            <ul class="submenu">
+            <n-link to="/blog">Blog</n-link>
+            <!-- <ul class="submenu">
                 <li>
                     <n-link to="/blog">blog standard</n-link>
                 </li>
@@ -144,7 +144,7 @@
                 <li>
                     <n-link to="/blog/a-guide-to-latest-trends-product">blog details</n-link>
                 </li>
-            </ul>
+            </ul> -->
         </li>
         <li>
             <n-link to="/contact">Contact </n-link>

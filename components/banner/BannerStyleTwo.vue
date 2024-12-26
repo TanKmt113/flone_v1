@@ -19,7 +19,7 @@
                     id: 1,
                     title: "Watches",
                     price: 99.00,
-                    imgSrc: "/img/banner/banner-1.jpg"
+                    imgSrc: "/img/banner/banner-1.avif"
                 },
                 {
                     id: 2,

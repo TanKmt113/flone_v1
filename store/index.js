@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-
 import products from "../data/product.json";
+
+
 
 Vue.use(Vuex)
 

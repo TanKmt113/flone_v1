@@ -5,6 +5,7 @@
         <ProductDetailsWrapper :product="product" />
         <ProductDetailsDescriptionReview />
         <TheFooter />
+      
     </div>
 </template>
 

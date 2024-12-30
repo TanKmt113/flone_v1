@@ -104,6 +104,15 @@
   "WelcomeMessage": {
     "description": "Auto imported from components/WelcomeMessage.vue"
   },
+  "AdminHeader": {
+    "description": "Auto imported from components/admin/Header.vue"
+  },
+  "AdminMenuAdmin": {
+    "description": "Auto imported from components/admin/MenuAdmin.vue"
+  },
+  "AdminTitle": {
+    "description": "Auto imported from components/admin/Title.vue"
+  },
   "BannerItem": {
     "description": "Auto imported from components/banner/BannerItem.vue"
   },
@@ -124,21 +133,6 @@
   },
   "BannerStyleTwo": {
     "description": "Auto imported from components/banner/BannerStyleTwo.vue"
-  },
-  "PolicyServicePolicy": {
-    "description": "Auto imported from components/policy/ServicePolicy.vue"
-  },
-  "PolicyServicePolicyFive": {
-    "description": "Auto imported from components/policy/ServicePolicyFive.vue"
-  },
-  "PolicyServicePolicyFour": {
-    "description": "Auto imported from components/policy/ServicePolicyFour.vue"
-  },
-  "PolicyServicePolicyThree": {
-    "description": "Auto imported from components/policy/ServicePolicyThree.vue"
-  },
-  "PolicyServicePolicyTwo": {
-    "description": "Auto imported from components/policy/ServicePolicyTwo.vue"
   },
   "HeroSlider": {
     "description": "Auto imported from components/hero/HeroSlider.vue"
@@ -172,6 +166,21 @@
   },
   "HeroSliderTwo": {
     "description": "Auto imported from components/hero/HeroSliderTwo.vue"
+  },
+  "PolicyServicePolicy": {
+    "description": "Auto imported from components/policy/ServicePolicy.vue"
+  },
+  "PolicyServicePolicyFive": {
+    "description": "Auto imported from components/policy/ServicePolicyFive.vue"
+  },
+  "PolicyServicePolicyFour": {
+    "description": "Auto imported from components/policy/ServicePolicyFour.vue"
+  },
+  "PolicyServicePolicyThree": {
+    "description": "Auto imported from components/policy/ServicePolicyThree.vue"
+  },
+  "PolicyServicePolicyTwo": {
+    "description": "Auto imported from components/policy/ServicePolicyTwo.vue"
   },
   "ProductDetailsWrapper": {
     "description": "Auto imported from components/product/ProductDetailsWrapper.vue"

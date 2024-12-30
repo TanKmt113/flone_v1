@@ -7,13 +7,6 @@
     "_name": "_93df84a6"
   },
   {
-    "name": "admin",
-    "path": "/admin",
-    "component": "/home/tandev/DEV FOX/ecommerce/flone/pages/admin/index.vue",
-    "chunkName": "pages/admin/index",
-    "_name": "_b2d2b89c"
-  },
-  {
     "name": "blog",
     "path": "/blog",
     "component": "/home/tandev/DEV FOX/ecommerce/flone/pages/blog/index.vue",
@@ -194,6 +187,20 @@
     "component": "/home/tandev/DEV FOX/ecommerce/flone/pages/wishlist.vue",
     "chunkName": "pages/wishlist",
     "_name": "_44262a56"
+  },
+  {
+    "name": "admin-blogs",
+    "path": "/admin/blogs",
+    "component": "/home/tandev/DEV FOX/ecommerce/flone/pages/admin/blogs/index.vue",
+    "chunkName": "pages/admin/blogs/index",
+    "_name": "_7f83b634"
+  },
+  {
+    "name": "admin-product",
+    "path": "/admin/product",
+    "component": "/home/tandev/DEV FOX/ecommerce/flone/pages/admin/product/index.vue",
+    "chunkName": "pages/admin/product/index",
+    "_name": "_37824e92"
   },
   {
     "name": "blog-blog-right-sidebar",

@@ -5,7 +5,6 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _93df84a6 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
-const _b2d2b89c = () => interopDefault(import('../pages/admin/index.vue' /* webpackChunkName: "pages/admin/index" */))
 const _79970335 = () => interopDefault(import('../pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
 const _639cc6b0 = () => interopDefault(import('../pages/cart.vue' /* webpackChunkName: "pages/cart" */))
 const _46bad9d6 = () => interopDefault(import('../pages/checkout.vue' /* webpackChunkName: "pages/checkout" */))
@@ -32,6 +31,8 @@ const _7640f760 = () => interopDefault(import('../pages/shop-list-full-width.vue
 const _7b172f85 = () => interopDefault(import('../pages/shop-list-standard.vue' /* webpackChunkName: "pages/shop-list-standard" */))
 const _50dd874e = () => interopDefault(import('../pages/terms-conditions.vue' /* webpackChunkName: "pages/terms-conditions" */))
 const _44262a56 = () => interopDefault(import('../pages/wishlist.vue' /* webpackChunkName: "pages/wishlist" */))
+const _7f83b634 = () => interopDefault(import('../pages/admin/blogs/index.vue' /* webpackChunkName: "pages/admin/blogs/index" */))
+const _37824e92 = () => interopDefault(import('../pages/admin/product/index.vue' /* webpackChunkName: "pages/admin/product/index" */))
 const _a9c17526 = () => interopDefault(import('../pages/blog/blog-right-sidebar.vue' /* webpackChunkName: "pages/blog/blog-right-sidebar" */))
 const _8396c0ce = () => interopDefault(import('../pages/blog/blog-without-sidebar.vue' /* webpackChunkName: "pages/blog/blog-without-sidebar" */))
 const _5f080422 = () => interopDefault(import('../pages/product/product-affiliate.vue' /* webpackChunkName: "pages/product/product-affiliate" */))
@@ -54,10 +55,6 @@ export const routerOptions = {
     path: "/about",
     component: _93df84a6,
     name: "about"
-  }, {
-    path: "/admin",
-    component: _b2d2b89c,
-    name: "admin"
   }, {
     path: "/blog",
     component: _79970335,
@@ -162,6 +159,14 @@ export const routerOptions = {
     path: "/wishlist",
     component: _44262a56,
     name: "wishlist"
+  }, {
+    path: "/admin/blogs",
+    component: _7f83b634,
+    name: "admin-blogs"
+  }, {
+    path: "/admin/product",
+    component: _37824e92,
+    name: "admin-product"
   }, {
     path: "/blog/blog-right-sidebar",
     component: _a9c17526,

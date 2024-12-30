@@ -7,6 +7,13 @@
     "_name": "_93df84a6"
   },
   {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/tandev/DEV FOX/ecommerce/flone/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_b2d2b89c"
+  },
+  {
     "name": "blog",
     "path": "/blog",
     "component": "/home/tandev/DEV FOX/ecommerce/flone/pages/blog/index.vue",

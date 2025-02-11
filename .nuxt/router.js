@@ -4,41 +4,41 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _93df84a6 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
-const _79970335 = () => interopDefault(import('../pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
-const _639cc6b0 = () => interopDefault(import('../pages/cart.vue' /* webpackChunkName: "pages/cart" */))
-const _46bad9d6 = () => interopDefault(import('../pages/checkout.vue' /* webpackChunkName: "pages/checkout" */))
-const _5a708905 = () => interopDefault(import('../pages/compare.vue' /* webpackChunkName: "pages/compare" */))
-const _75745ac0 = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
-const _74552bcb = () => interopDefault(import('../pages/home-book-store.vue' /* webpackChunkName: "pages/home-book-store" */))
-const _89432ab4 = () => interopDefault(import('../pages/home-cosmetics.vue' /* webpackChunkName: "pages/home-cosmetics" */))
-const _017a09f5 = () => interopDefault(import('../pages/home-fashion-five.vue' /* webpackChunkName: "pages/home-fashion-five" */))
-const _3de1c669 = () => interopDefault(import('../pages/home-fashion-four.vue' /* webpackChunkName: "pages/home-fashion-four" */))
-const _19214fda = () => interopDefault(import('../pages/home-fashion-seven.vue' /* webpackChunkName: "pages/home-fashion-seven" */))
-const _4de87922 = () => interopDefault(import('../pages/home-fashion-six.vue' /* webpackChunkName: "pages/home-fashion-six" */))
-const _10f184eb = () => interopDefault(import('../pages/home-fashion-three.vue' /* webpackChunkName: "pages/home-fashion-three" */))
-const _255703d9 = () => interopDefault(import('../pages/home-fashion-two.vue' /* webpackChunkName: "pages/home-fashion-two" */))
-const _0db3efd8 = () => interopDefault(import('../pages/home-furniture.vue' /* webpackChunkName: "pages/home-furniture" */))
-const _60a07297 = () => interopDefault(import('../pages/login-register.vue' /* webpackChunkName: "pages/login-register" */))
-const _1d882ac8 = () => interopDefault(import('../pages/my-account.vue' /* webpackChunkName: "pages/my-account" */))
-const _237e0527 = () => interopDefault(import('../pages/privacy-policy.vue' /* webpackChunkName: "pages/privacy-policy" */))
-const _4ea44b86 = () => interopDefault(import('../pages/shop.vue' /* webpackChunkName: "pages/shop" */))
-const _69ec04a8 = () => interopDefault(import('../pages/shop-grid-full-width.vue' /* webpackChunkName: "pages/shop-grid-full-width" */))
-const _26434ef0 = () => interopDefault(import('../pages/shop-grid-no-sidebar.vue' /* webpackChunkName: "pages/shop-grid-no-sidebar" */))
-const _61a1b88a = () => interopDefault(import('../pages/shop-grid-right-sidebar.vue' /* webpackChunkName: "pages/shop-grid-right-sidebar" */))
-const _aeeaf3d2 = () => interopDefault(import('../pages/shop-grid-two-column.vue' /* webpackChunkName: "pages/shop-grid-two-column" */))
-const _7640f760 = () => interopDefault(import('../pages/shop-list-full-width.vue' /* webpackChunkName: "pages/shop-list-full-width" */))
-const _7b172f85 = () => interopDefault(import('../pages/shop-list-standard.vue' /* webpackChunkName: "pages/shop-list-standard" */))
-const _50dd874e = () => interopDefault(import('../pages/terms-conditions.vue' /* webpackChunkName: "pages/terms-conditions" */))
-const _44262a56 = () => interopDefault(import('../pages/wishlist.vue' /* webpackChunkName: "pages/wishlist" */))
-const _7f83b634 = () => interopDefault(import('../pages/admin/blogs/index.vue' /* webpackChunkName: "pages/admin/blogs/index" */))
-const _37824e92 = () => interopDefault(import('../pages/admin/product/index.vue' /* webpackChunkName: "pages/admin/product/index" */))
-const _a9c17526 = () => interopDefault(import('../pages/blog/blog-right-sidebar.vue' /* webpackChunkName: "pages/blog/blog-right-sidebar" */))
-const _8396c0ce = () => interopDefault(import('../pages/blog/blog-without-sidebar.vue' /* webpackChunkName: "pages/blog/blog-without-sidebar" */))
-const _5f080422 = () => interopDefault(import('../pages/product/product-affiliate.vue' /* webpackChunkName: "pages/product/product-affiliate" */))
-const _546fcf1c = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
-const _77e061ed = () => interopDefault(import('../pages/blog/_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
-const _4cc73bec = () => interopDefault(import('../pages/product/_slug.vue' /* webpackChunkName: "pages/product/_slug" */))
+const _77fb6f34 = () => interopDefault(import('..\\pages\\about.vue' /* webpackChunkName: "pages/about" */))
+const _420a6bee = () => interopDefault(import('..\\pages\\blog\\index.vue' /* webpackChunkName: "pages/blog/index" */))
+const _6c5200d7 = () => interopDefault(import('..\\pages\\cart.vue' /* webpackChunkName: "pages/cart" */))
+const _2068a87d = () => interopDefault(import('..\\pages\\checkout.vue' /* webpackChunkName: "pages/checkout" */))
+const _97ea6d04 = () => interopDefault(import('..\\pages\\compare.vue' /* webpackChunkName: "pages/compare" */))
+const _61e2c98e = () => interopDefault(import('..\\pages\\contact.vue' /* webpackChunkName: "pages/contact" */))
+const _77f03978 = () => interopDefault(import('..\\pages\\home-book-store.vue' /* webpackChunkName: "pages/home-book-store" */))
+const _b5ab3fe6 = () => interopDefault(import('..\\pages\\home-cosmetics.vue' /* webpackChunkName: "pages/home-cosmetics" */))
+const _2f5cc72e = () => interopDefault(import('..\\pages\\home-fashion-five.vue' /* webpackChunkName: "pages/home-fashion-five" */))
+const _6bc483a2 = () => interopDefault(import('..\\pages\\home-fashion-four.vue' /* webpackChunkName: "pages/home-fashion-four" */))
+const _b0d38c7e = () => interopDefault(import('..\\pages\\home-fashion-seven.vue' /* webpackChunkName: "pages/home-fashion-seven" */))
+const _7faffb16 = () => interopDefault(import('..\\pages\\home-fashion-six.vue' /* webpackChunkName: "pages/home-fashion-six" */))
+const _c133225c = () => interopDefault(import('..\\pages\\home-fashion-three.vue' /* webpackChunkName: "pages/home-fashion-three" */))
+const _68098900 = () => interopDefault(import('..\\pages\\home-fashion-two.vue' /* webpackChunkName: "pages/home-fashion-two" */))
+const _3a1c050a = () => interopDefault(import('..\\pages\\home-furniture.vue' /* webpackChunkName: "pages/home-furniture" */))
+const _4a6c67fe = () => interopDefault(import('..\\pages\\login-register.vue' /* webpackChunkName: "pages/login-register" */))
+const _16b0ab83 = () => interopDefault(import('..\\pages\\my-account.vue' /* webpackChunkName: "pages/my-account" */))
+const _0d49fa8e = () => interopDefault(import('..\\pages\\privacy-policy.vue' /* webpackChunkName: "pages/privacy-policy" */))
+const _575985ad = () => interopDefault(import('..\\pages\\shop.vue' /* webpackChunkName: "pages/shop" */))
+const _2ece10cf = () => interopDefault(import('..\\pages\\shop-grid-full-width.vue' /* webpackChunkName: "pages/shop-grid-full-width" */))
+const _29b549d2 = () => interopDefault(import('..\\pages\\shop-grid-no-sidebar.vue' /* webpackChunkName: "pages/shop-grid-no-sidebar" */))
+const _4c935234 = () => interopDefault(import('..\\pages\\shop-grid-right-sidebar.vue' /* webpackChunkName: "pages/shop-grid-right-sidebar" */))
+const _6d6c923e = () => interopDefault(import('..\\pages\\shop-grid-two-column.vue' /* webpackChunkName: "pages/shop-grid-two-column" */))
+const _ec7cdf12 = () => interopDefault(import('..\\pages\\shop-list-full-width.vue' /* webpackChunkName: "pages/shop-list-full-width" */))
+const _098c196c = () => interopDefault(import('..\\pages\\shop-list-standard.vue' /* webpackChunkName: "pages/shop-list-standard" */))
+const _10fc8216 = () => interopDefault(import('..\\pages\\terms-conditions.vue' /* webpackChunkName: "pages/terms-conditions" */))
+const _90ca8d08 = () => interopDefault(import('..\\pages\\wishlist.vue' /* webpackChunkName: "pages/wishlist" */))
+const _9d6c9d6e = () => interopDefault(import('..\\pages\\admin\\blogs\\index.vue' /* webpackChunkName: "pages/admin/blogs/index" */))
+const _2951eeab = () => interopDefault(import('..\\pages\\admin\\product\\index.vue' /* webpackChunkName: "pages/admin/product/index" */))
+const _178f91ce = () => interopDefault(import('..\\pages\\blog\\blog-right-sidebar.vue' /* webpackChunkName: "pages/blog/blog-right-sidebar" */))
+const _24d7d645 = () => interopDefault(import('..\\pages\\blog\\blog-without-sidebar.vue' /* webpackChunkName: "pages/blog/blog-without-sidebar" */))
+const _83dfb4d2 = () => interopDefault(import('..\\pages\\product\\product-affiliate.vue' /* webpackChunkName: "pages/product/product-affiliate" */))
+const _388bb9aa = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _4577ae7e = () => interopDefault(import('..\\pages\\blog\\_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
+const _13b0c5b2 = () => interopDefault(import('..\\pages\\product\\_slug.vue' /* webpackChunkName: "pages/product/_slug" */))
 
 const emptyFn = () => {}
 
@@ -53,143 +53,143 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _93df84a6,
+    component: _77fb6f34,
     name: "about"
   }, {
     path: "/blog",
-    component: _79970335,
+    component: _420a6bee,
     name: "blog"
   }, {
     path: "/cart",
-    component: _639cc6b0,
+    component: _6c5200d7,
     name: "cart"
   }, {
     path: "/checkout",
-    component: _46bad9d6,
+    component: _2068a87d,
     name: "checkout"
   }, {
     path: "/compare",
-    component: _5a708905,
+    component: _97ea6d04,
     name: "compare"
   }, {
     path: "/contact",
-    component: _75745ac0,
+    component: _61e2c98e,
     name: "contact"
   }, {
     path: "/home-book-store",
-    component: _74552bcb,
+    component: _77f03978,
     name: "home-book-store"
   }, {
     path: "/home-cosmetics",
-    component: _89432ab4,
+    component: _b5ab3fe6,
     name: "home-cosmetics"
   }, {
     path: "/home-fashion-five",
-    component: _017a09f5,
+    component: _2f5cc72e,
     name: "home-fashion-five"
   }, {
     path: "/home-fashion-four",
-    component: _3de1c669,
+    component: _6bc483a2,
     name: "home-fashion-four"
   }, {
     path: "/home-fashion-seven",
-    component: _19214fda,
+    component: _b0d38c7e,
     name: "home-fashion-seven"
   }, {
     path: "/home-fashion-six",
-    component: _4de87922,
+    component: _7faffb16,
     name: "home-fashion-six"
   }, {
     path: "/home-fashion-three",
-    component: _10f184eb,
+    component: _c133225c,
     name: "home-fashion-three"
   }, {
     path: "/home-fashion-two",
-    component: _255703d9,
+    component: _68098900,
     name: "home-fashion-two"
   }, {
     path: "/home-furniture",
-    component: _0db3efd8,
+    component: _3a1c050a,
     name: "home-furniture"
   }, {
     path: "/login-register",
-    component: _60a07297,
+    component: _4a6c67fe,
     name: "login-register"
   }, {
     path: "/my-account",
-    component: _1d882ac8,
+    component: _16b0ab83,
     name: "my-account"
   }, {
     path: "/privacy-policy",
-    component: _237e0527,
+    component: _0d49fa8e,
     name: "privacy-policy"
   }, {
     path: "/shop",
-    component: _4ea44b86,
+    component: _575985ad,
     name: "shop"
   }, {
     path: "/shop-grid-full-width",
-    component: _69ec04a8,
+    component: _2ece10cf,
     name: "shop-grid-full-width"
   }, {
     path: "/shop-grid-no-sidebar",
-    component: _26434ef0,
+    component: _29b549d2,
     name: "shop-grid-no-sidebar"
   }, {
     path: "/shop-grid-right-sidebar",
-    component: _61a1b88a,
+    component: _4c935234,
     name: "shop-grid-right-sidebar"
   }, {
     path: "/shop-grid-two-column",
-    component: _aeeaf3d2,
+    component: _6d6c923e,
     name: "shop-grid-two-column"
   }, {
     path: "/shop-list-full-width",
-    component: _7640f760,
+    component: _ec7cdf12,
     name: "shop-list-full-width"
   }, {
     path: "/shop-list-standard",
-    component: _7b172f85,
+    component: _098c196c,
     name: "shop-list-standard"
   }, {
     path: "/terms-conditions",
-    component: _50dd874e,
+    component: _10fc8216,
     name: "terms-conditions"
   }, {
     path: "/wishlist",
-    component: _44262a56,
+    component: _90ca8d08,
     name: "wishlist"
   }, {
     path: "/admin/blogs",
-    component: _7f83b634,
+    component: _9d6c9d6e,
     name: "admin-blogs"
   }, {
     path: "/admin/product",
-    component: _37824e92,
+    component: _2951eeab,
     name: "admin-product"
   }, {
     path: "/blog/blog-right-sidebar",
-    component: _a9c17526,
+    component: _178f91ce,
     name: "blog-blog-right-sidebar"
   }, {
     path: "/blog/blog-without-sidebar",
-    component: _8396c0ce,
+    component: _24d7d645,
     name: "blog-blog-without-sidebar"
   }, {
     path: "/product/product-affiliate",
-    component: _5f080422,
+    component: _83dfb4d2,
     name: "product-product-affiliate"
   }, {
     path: "/",
-    component: _546fcf1c,
+    component: _388bb9aa,
     name: "index"
   }, {
     path: "/blog/:slug",
-    component: _77e061ed,
+    component: _4577ae7e,
     name: "blog-slug"
   }, {
     path: "/product/:slug?",
-    component: _4cc73bec,
+    component: _13b0c5b2,
     name: "product-slug"
   }],
 

@@ -41,11 +41,11 @@
   "HeaderOffcanvasMenuWithTransparent": {
     "description": "Auto imported from components/HeaderOffcanvasMenuWithTransparent.vue"
   },
-  "HeaderWithTopBarTwo": {
-    "description": "Auto imported from components/HeaderWithTopBarTwo.vue"
-  },
   "HeaderWithTopbar": {
     "description": "Auto imported from components/HeaderWithTopbar.vue"
+  },
+  "HeaderWithTopBarTwo": {
+    "description": "Auto imported from components/HeaderWithTopBarTwo.vue"
   },
   "HomeSidebarMenu": {
     "description": "Auto imported from components/HomeSidebarMenu.vue"
@@ -104,15 +104,6 @@
   "WelcomeMessage": {
     "description": "Auto imported from components/WelcomeMessage.vue"
   },
-  "AdminHeader": {
-    "description": "Auto imported from components/admin/Header.vue"
-  },
-  "AdminMenuAdmin": {
-    "description": "Auto imported from components/admin/MenuAdmin.vue"
-  },
-  "AdminTitle": {
-    "description": "Auto imported from components/admin/Title.vue"
-  },
   "BannerItem": {
     "description": "Auto imported from components/banner/BannerItem.vue"
   },
@@ -133,6 +124,15 @@
   },
   "BannerStyleTwo": {
     "description": "Auto imported from components/banner/BannerStyleTwo.vue"
+  },
+  "AdminHeader": {
+    "description": "Auto imported from components/admin/Header.vue"
+  },
+  "AdminMenuAdmin": {
+    "description": "Auto imported from components/admin/MenuAdmin.vue"
+  },
+  "AdminTitle": {
+    "description": "Auto imported from components/admin/Title.vue"
   },
   "HeroSlider": {
     "description": "Auto imported from components/hero/HeroSlider.vue"

@@ -2,7 +2,7 @@
     <div class="product-area product-mb-xs pt-100 pb-100">
         <client-only>
             <div class="container">
-                <SectionTitleWithSubTitle classes="section-title-6" title="New Arrivals" />
+                <SectionTitleWithSubTitle classes="section-title-6" title="Hàng mới về" />
                 <ul class="product-tab-list nav justify-content-center pt-25 pb-60">
                     <li v-for="(cat, index) in filterCategory" :key="index" @click="filterHandler(cat)" class="nav-item">
                         <button :class="{'active': cat === selectedCategory}">{{ cat }}</button>

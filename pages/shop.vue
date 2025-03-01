@@ -1,7 +1,7 @@
 <template>
   <div class="shop-page-wrapper">
     <HeaderWithTopbar containerClass="container" />
-    <Breadcrumb pageTitle="shop grid standard" />
+    <Breadcrumb pageTitle="Cửa hàng" />
     <!-- product items wrapper -->
     <div class="shop-area pt-100 pb-100">
       <div class="container">
@@ -269,7 +269,7 @@ export default {
 
   head() {
     return {
-      title: "Shop grid standard",
+      title: "Cửa hàng",
     };
   },
 };

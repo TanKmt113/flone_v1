@@ -2,7 +2,7 @@
   <div class="product-wrap mb-30">
     <div class="product-img">
       <n-link :to="`/product/${slugify(product.title)}`">
-        <img class="default-img" :src="product.images[0]" :alt="product.title" />
+        <img class="default-img" :src="product.thumbnailPath" :alt="product.title" />
         <!-- <img class="hover-img" :src="product.images[1]" :alt="product.title" /> -->
       </n-link>
       <div class="product-badges">
@@ -44,7 +44,8 @@
       <h3>
         <n-link :to="`/product/${slugify(product.title)}`">{{ product.title }}</n-link>
       </h3>
-      <div class="product-rating" v-if="Math.floor(product.rating) == 5">
+      <rating :rating="product.rating"></rating>
+      <!-- <div class="product-rating" v-if="Math.floor(product.rating) == 5">
         <i class="fa fa-star-o yellow"></i>
         <i class="fa fa-star-o yellow"></i>
         <i class="fa fa-star-o yellow"></i>
@@ -78,7 +79,7 @@
         <i class="fa fa-star-o"></i>
         <i class="fa fa-star-o"></i>
         <i class="fa fa-star-o"></i>
-      </div>
+      </div> -->
       <div class="product-price">
         <span>${{ discountedPrice(product).toFixed(2) }}</span>
         <span class="old" v-if="product.discountPercentage > 0"
@@ -118,7 +119,9 @@
 </template>
 
 <script>
+import rating from "../rating.vue";
 export default {
+  components: { rating },
   props: ["product", "layout"],
 
   methods: {

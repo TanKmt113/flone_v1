@@ -77,6 +77,9 @@
   "QuickView": {
     "description": "Auto imported from components/QuickView.vue"
   },
+  "Rating": {
+    "description": "Auto imported from components/rating.vue"
+  },
   "Register": {
     "description": "Auto imported from components/Register.vue"
   },
@@ -104,6 +107,18 @@
   "WelcomeMessage": {
     "description": "Auto imported from components/WelcomeMessage.vue"
   },
+  "AdminHeader": {
+    "description": "Auto imported from components/admin/Header.vue"
+  },
+  "AdminMenuAdmin": {
+    "description": "Auto imported from components/admin/MenuAdmin.vue"
+  },
+  "AdminProductDetail": {
+    "description": "Auto imported from components/admin/ProductDetail.vue"
+  },
+  "AdminTitle": {
+    "description": "Auto imported from components/admin/Title.vue"
+  },
   "BannerItem": {
     "description": "Auto imported from components/banner/BannerItem.vue"
   },
@@ -124,15 +139,6 @@
   },
   "BannerStyleTwo": {
     "description": "Auto imported from components/banner/BannerStyleTwo.vue"
-  },
-  "AdminHeader": {
-    "description": "Auto imported from components/admin/Header.vue"
-  },
-  "AdminMenuAdmin": {
-    "description": "Auto imported from components/admin/MenuAdmin.vue"
-  },
-  "AdminTitle": {
-    "description": "Auto imported from components/admin/Title.vue"
   },
   "HeroSlider": {
     "description": "Auto imported from components/hero/HeroSlider.vue"

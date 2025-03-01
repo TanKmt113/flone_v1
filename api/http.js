@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const http = axios.create({
-  baseURL: "https://dummyjson.com", // Thay thế bằng API của bạn
+  baseURL: "http://posapi.foxai.com.vn:2310/api/", // Thay thế bằng API của bạn
   timeout: 5000, // Timeout sau 5 giây
   headers: {
     "Content-Type": "application/json",

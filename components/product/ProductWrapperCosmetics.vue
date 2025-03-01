@@ -4,13 +4,13 @@
             <div class="container">
                 <ul class="nav product-tab-list-2 pb-55">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" data-bs-toggle="pill" data-bs-target="#new-product" role="tab">New Arrivals</button>
+                        <button class="nav-link" data-bs-toggle="pill" data-bs-target="#new-product" role="tab">Hàng mới về</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" data-bs-toggle="pill" data-bs-target="#best-product" role="tab">Best Sellers</button>
+                        <button class="nav-link active" data-bs-toggle="pill" data-bs-target="#best-product" role="tab">Bán chạy nhất</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" data-bs-toggle="pill" data-bs-target="#sale-product" role="tab">Sale Items</button>
+                        <button class="nav-link" data-bs-toggle="pill" data-bs-target="#sale-product" role="tab">Mặt hàng bán</button>
                     </li>
                 </ul>
                 <div class="tab-content">
@@ -36,7 +36,7 @@
                         </div>
                     </div>
                     <div class="view-more text-center mt-20 toggle-btn2">
-                        <n-link to="/shop" class="loadMore2">VIEW MORE PRODUCTS</n-link>
+                        <n-link to="/shop" class="loadMore2">XEM THÊM SẢN PHẨM</n-link>
                     </div>
                 </div>
             </div>

@@ -15,7 +15,7 @@
                 <div class="col-lg-2 col-sm-4">
                     <div class="footer-widget mb-30 ml-30">
                         <div class="footer-title">
-                            <h3>ABOUT US</h3>
+                            <h3>VỀ CHÚNG TÔI</h3>
                         </div>
                         <div class="footer-list">
                             <ul>
@@ -30,7 +30,7 @@
                 <div class="col-lg-2 col-sm-4">
                     <div class="footer-widget mb-30 ml-50">
                         <div class="footer-title">
-                            <h3>USEFUL LINKS</h3>
+                            <h3>LIÊN KẾT</h3>
                         </div>
                         <div class="footer-list">
                             <ul>
@@ -45,7 +45,7 @@
                 <div class="col-lg-2 col-sm-6">
                     <div class="footer-widget mb-30 ml-75">
                         <div class="footer-title">
-                            <h3>FOLLOW US</h3>
+                            <h3>THEO DÕI CHÚNG TÔI</h3>
                         </div>
                         <div class="footer-list">
                             <ul>
@@ -60,7 +60,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="footer-widget mb-30 ml-70">
                         <div class="footer-title">
-                            <h3>SUBSCRIBE</h3>
+                            <h3>ĐẶT MUA</h3>
                         </div>
                         <div class="subscribe-style">
                             <p>Get E-mail updates about our latest shop and special offers.</p>

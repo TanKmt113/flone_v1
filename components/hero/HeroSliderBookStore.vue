@@ -3,7 +3,7 @@
         <swiper :options="sliderOption">
             <swiper-slide class="single-slider-2 slider-height-18 d-flex align-items-center bg-img slider-overly-res" :style="{ backgroundImage:'url(/img/slider/slider-11.avif)' }">
                 <div class="slider-content-18 ml-70 slider-animation-1">
-                    <h3>New Arrivals</h3>
+                    <h3>Hàng mới về</h3>
                     <h1>Book Shop <br>Find Your Book</h1>
                     <div class="slider-btn-9 btn-hover">
                         <n-link to="/shop">SHOP NOW</n-link>
@@ -12,7 +12,7 @@
             </swiper-slide>
             <swiper-slide class="single-slider-2 slider-height-18 d-flex align-items-center bg-img slider-overly-res" :style="{ backgroundImage:'url(/img/slider/slider-11-2.jpg)' }">
                 <div class="slider-content-18 ml-70 slider-animation-1">
-                    <h3 class="animated">New Arrivals</h3>
+                    <h3 class="animated">Hàng mới về</h3>
                     <h1 class="animated">Book Shop <br>Find Your Book</h1>
                     <div class="slider-btn-9 btn-hover">
                         <n-link to="/shop">SHOP NOW</n-link>

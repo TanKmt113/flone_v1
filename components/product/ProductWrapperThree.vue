@@ -7,7 +7,7 @@
                     <ProductGridItemTwo :product="product" />
                 </div>
                 <div class="view-more text-center mt-20 toggle-btn2 col-12">
-                    <n-link to="/shop" class="loadMore2">VIEW MORE PRODUCTS</n-link>
+                    <n-link to="/shop" class="loadMore2">XEM THÊM SẢN PHẨM</n-link>
                 </div>
             </div>
         </div>
